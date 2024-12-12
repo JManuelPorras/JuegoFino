@@ -1,0 +1,14 @@
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\JuegoFino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\JuegoFino.AssemblyInfoInputs.cache
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\JuegoFino.AssemblyInfo.cs
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\JuegoFino.csproj.CoreCompileInputs.cache
+C:\Users\socor\Desktop\Codigos\JuegoFino\bin\Debug\net8.0\JuegoFino.exe
+C:\Users\socor\Desktop\Codigos\JuegoFino\bin\Debug\net8.0\JuegoFino.deps.json
+C:\Users\socor\Desktop\Codigos\JuegoFino\bin\Debug\net8.0\JuegoFino.runtimeconfig.json
+C:\Users\socor\Desktop\Codigos\JuegoFino\bin\Debug\net8.0\JuegoFino.dll
+C:\Users\socor\Desktop\Codigos\JuegoFino\bin\Debug\net8.0\JuegoFino.pdb
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\JuegoFino.dll
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\refint\JuegoFino.dll
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\JuegoFino.pdb
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\JuegoFino.genruntimeconfig.cache
+C:\Users\socor\Desktop\Codigos\JuegoFino\obj\Debug\net8.0\ref\JuegoFino.dll
