@@ -2,9 +2,9 @@ namespace TeVasAMorir
 {
     class Jugador
     {
-        public string Nombre {get; set;}
-        public int Puntuacion {get; set;}
-        public List<Ficha> Fichas {get; set;}
+        public string Nombre { get; set; }
+        public int Puntuacion { get; set; }
+        public List<Ficha> Fichas { get; set; }
 
         public Jugador(string nombre)
         {

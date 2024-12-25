@@ -2,9 +2,9 @@ namespace TeVasAMorir
 {
     class Ficha
     {
-        public string Tipo {get; set;}
-        public int xPosicion {get; set;}
-        public int yPosicion {get; set;}
+        public string Tipo { get; set; }
+        public int xPosicion { get; set; }
+        public int yPosicion { get; set; }
 
         public Ficha(string tipo, int xposicion, int yposicion)
         {

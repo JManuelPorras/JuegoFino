@@ -1,11 +1,11 @@
 ﻿namespace TeVasAMorir
 {
-   class Program
-   {
-    public static void Main(string[] args)
+    public class Program
+    {
+        public static void Main()
         {
-            Laberinto laberinto = new Laberinto(20);
+            Laberinto laberinto = new Laberinto(21); // Usa un tamaño impar para que funcione bien con la accesibilidad
             laberinto.ImprimirTablero();
         }
-   }
+    }
 }

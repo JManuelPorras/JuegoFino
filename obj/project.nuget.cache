@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jUoB2DB5qWQ=",
+  "dgSpecHash": "3AEQCpojUZQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino\\JuegoFino.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\socor\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
   "logs": []
 }

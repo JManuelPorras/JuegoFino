@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino\\JuegoFino.csproj": {}
+    "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino\\JuegoFino.csproj": {
+    "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino\\JuegoFino.csproj",
+        "projectUniqueName": "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino.csproj",
         "projectName": "JuegoFino",
-        "projectPath": "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino\\JuegoFino.csproj",
+        "projectPath": "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino.csproj",
         "packagesPath": "C:\\Users\\socor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\socor\\Desktop\\Codigos\\JuegoFino\\obj\\",
+        "outputPath": "C:\\Users\\socor\\Desktop\\Codigos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\socor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
